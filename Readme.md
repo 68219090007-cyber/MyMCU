@@ -1,5 +1,3 @@
-# MyMCU
-เตโช สงขำ 007
 ### Features
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
